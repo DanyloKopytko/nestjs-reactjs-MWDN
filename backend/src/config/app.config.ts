@@ -1,5 +1,5 @@
 import { registerAs } from '@nestjs/config';
-import * as process from "process";
+import * as process from 'process';
 
 export const appConfig = registerAs('app', () => ({
   nodeEnv: process.env.NODE_ENV,

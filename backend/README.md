@@ -1,7 +1,7 @@
 # Interview-Backend
 Please focus on production ready and clean code.
 
-Please feel free to refactor the code as you see, while ensuring that it remains in JS.
+Please feel free to refactor the code as you see, while ensuring that it remains in JS/TS.
 
 ## Tasks
 * Implement the existing "API endpoints" to fetch images and merge them into one response
